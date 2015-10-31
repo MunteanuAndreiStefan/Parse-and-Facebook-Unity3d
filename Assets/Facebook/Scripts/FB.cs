@@ -6,6 +6,7 @@ using UnityEngine;
 
 public sealed class FB : ScriptableObject
 {
+	//frumos cod, tu l-ai scris?
     public static InitDelegate OnInitComplete;
     public static HideUnityDelegate OnHideUnity;
 
